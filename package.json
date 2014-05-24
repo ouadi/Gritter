@@ -35,12 +35,11 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "repositories": [
-    {
-      "type": "git", 
-      "url": "https://github.com/jboesch/Gritter.git"
-    }
-  ],
+  "repository":
+  {
+    "type": "git", 
+    "url": "https://github.com/jboesch/Gritter.git"
+  },
   "github": "https://github.com/jboesch/Gritter",
   "categories": ["UI"]  
 }
